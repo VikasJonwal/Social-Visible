@@ -1,0 +1,148 @@
+@import url(//db.onlinewebfonts.com/c/6cec834e2e8f2e4206567ed75e1281d4?family=Brandon+Grotesque+Bold);
+
+#Heading{
+    margin-top: 40px;
+    padding: 20px;
+}
+@media (min-width: 640px) {
+    #Heading{
+        margin-top: 60px;
+        padding: 60px;
+    }
+    body #Heading h3{
+        font-size: 25px;
+        font-weight: 700;
+        padding: 0;
+        line-height: 1px;
+        margin: 0 0 5px 0;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #4e4e4e;
+        font-family: "Brandon Grotesque Bold"; src: url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.eot"); src: url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.woff") format("woff"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.svg#Brandon Grotesque Bold") format("svg");
+        text-align: center;
+    }
+    #Categories{
+        padding: 40px;
+        display: flex;
+        
+    }
+    body .channels{
+        padding: 40px;
+        display: flex;
+        
+    }
+    #ch{
+        margin-top: 0px;
+    }
+    
+}
+@media (max-width:600px){
+    #but{
+        display: none;
+    }
+    
+}
+
+#Heading h3{
+    font-size: 15px;
+    font-weight: 700;
+    padding: 0;
+    line-height: 1px;
+    margin: 0 0 5px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #4e4e4e;
+    font-family: "Brandon Grotesque Bold"; src: url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.eot"); src: url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.woff") format("woff"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.svg#Brandon Grotesque Bold") format("svg");
+    text-align: center;
+}
+#Categories{
+    padding: 20px;
+    
+    
+}
+#card{
+    margin-top: 20px;
+}
+.list {
+    margin-top: 60px;
+    padding: 60px;
+}
+.list h3{
+    font-size: 25px;
+    font-weight: 700;
+    padding: 0;
+    line-height: 1px;
+    margin: 0 0 5px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    font-family: "Brandon Grotesque Bold"; src: url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.eot"); src: url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.woff") format("woff"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.svg#Brandon Grotesque Bold") format("svg");
+    text-align: center;
+}
+#travel{
+    color: #20ce20;
+}
+
+.channels{
+    padding: 40px;
+    display: inline;
+}
+#ch{
+    margin-top: 10px;
+}
+#tech{
+    color: rgb(209, 130, 255);
+}
+#movies{
+    color: rgb(252, 82, 82);
+}
+#food{
+    color: rgb(255, 192, 203);
+}
+#courses{
+    color: rgb(92, 65, 65);
+}
+#education{
+    color: lightblue;
+}
+#photos{
+    color: lightsalmon;
+}
+#trav{
+    margin-top: 0px;
+}
+
+.page_404 {
+    padding: 40px 0;
+    background: #fff;
+    font-family: "Arvo", serif;
+    margin-top: 100px;
+    margin-left: 180px;
+    
+  }
+  .page_404 img {
+    width: 100%;
+  
+  }
+  .four_zero_four_bg {
+    background-image: url(assets/404.gif);
+    height: 400px;
+    background-position: center;
+  }
+  .four_zero_four_bg h1 {
+    font-size: 80px;
+  }
+  .four_zero_four_bg h3 {
+    font-size: 80px;
+  }
+  .link_404 {
+    color: #fff !important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+    text-decoration: none;
+  }
+  .contant_box_404 {
+    margin-top: -50px;
+  }
